@@ -1,0 +1,15 @@
+C:\Users\mache\Lessons\Learning-by-myself\Learning\Learning\obj\Debug\net6.0\Learning.csproj.AssemblyReference.cache
+C:\Users\mache\Lessons\Learning-by-myself\Learning\Learning\obj\Debug\net6.0\Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mache\Lessons\Learning-by-myself\Learning\Learning\obj\Debug\net6.0\Learning.AssemblyInfoInputs.cache
+C:\Users\mache\Lessons\Learning-by-myself\Learning\Learning\obj\Debug\net6.0\Learning.AssemblyInfo.cs
+C:\Users\mache\Lessons\Learning-by-myself\Learning\Learning\obj\Debug\net6.0\Learning.csproj.CoreCompileInputs.cache
+C:\Users\mache\Lessons\Learning-by-myself\Learning\Learning\bin\Debug\net6.0\Learning.exe
+C:\Users\mache\Lessons\Learning-by-myself\Learning\Learning\bin\Debug\net6.0\Learning.deps.json
+C:\Users\mache\Lessons\Learning-by-myself\Learning\Learning\bin\Debug\net6.0\Learning.runtimeconfig.json
+C:\Users\mache\Lessons\Learning-by-myself\Learning\Learning\bin\Debug\net6.0\Learning.dll
+C:\Users\mache\Lessons\Learning-by-myself\Learning\Learning\bin\Debug\net6.0\Learning.pdb
+C:\Users\mache\Lessons\Learning-by-myself\Learning\Learning\obj\Debug\net6.0\Learning.dll
+C:\Users\mache\Lessons\Learning-by-myself\Learning\Learning\obj\Debug\net6.0\refint\Learning.dll
+C:\Users\mache\Lessons\Learning-by-myself\Learning\Learning\obj\Debug\net6.0\Learning.pdb
+C:\Users\mache\Lessons\Learning-by-myself\Learning\Learning\obj\Debug\net6.0\Learning.genruntimeconfig.cache
+C:\Users\mache\Lessons\Learning-by-myself\Learning\Learning\obj\Debug\net6.0\ref\Learning.dll
